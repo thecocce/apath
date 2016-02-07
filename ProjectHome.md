@@ -1,0 +1,1 @@
+This is A pathfinding library. It has simple API for easy use in games.
